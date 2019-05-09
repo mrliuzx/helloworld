@@ -2,6 +2,6 @@ package hi;
 
 public class Hi {
 	public static void main(String[] args) {
-		System.out.println("higit");
+		System.out.println("HiGit");
 	}
 }
